@@ -1,0 +1,12 @@
+{
+    "github.copilot.enable": {
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true
+    },
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.configuration.runtimes": [
+        
+    ]
+}
