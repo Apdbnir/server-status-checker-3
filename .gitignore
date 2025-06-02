@@ -1,0 +1,45 @@
+# Maven
+target/
+!src/main/resources/static/target/
+!src/main/resources/templates/target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*~
+
+# Database files (if any, adjust as needed)
+*.mv.db
+*.trace.db
+
+# Sensitive files (like application.properties if it contains secrets)
+# application.properties
